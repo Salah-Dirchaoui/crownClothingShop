@@ -4,7 +4,7 @@ import { getFirestore, doc, getDoc, setDoc, collection, writeBatch, query, getDo
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDqSpbH87AV6PPlAfjzIPqIYIpAkFwKzCw",
+  apiKey: "Your_Api_Key",
   authDomain: "crwnclogthingdb.firebaseapp.com",
   projectId: "crwnclogthingdb",
   storageBucket: "crwnclogthingdb.firebasestorage.app",
